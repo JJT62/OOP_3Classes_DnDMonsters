@@ -1,0 +1,11 @@
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.exe
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.deps.json
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.runtimeconfig.json
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.runtimeconfig.dev.json
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.dll
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\bin\Debug\netcoreapp3.1\DnDMonsters.pdb
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\obj\Debug\netcoreapp3.1\DnDMonsters.csprojAssemblyReference.cache
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\obj\Debug\netcoreapp3.1\DnDMonsters.AssemblyInfoInputs.cache
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\obj\Debug\netcoreapp3.1\DnDMonsters.AssemblyInfo.cs
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\obj\Debug\netcoreapp3.1\DnDMonsters.dll
+C:\Users\joelt\Documents\GitHub\OOP_3Classes_DnDMonsters\DnDMonsters\DnDMonsters\obj\Debug\netcoreapp3.1\DnDMonsters.pdb
